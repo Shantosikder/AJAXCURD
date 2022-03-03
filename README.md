@@ -1,0 +1,1 @@
+# AJAXCURD file
